@@ -6,6 +6,8 @@ I want to create a scorecard to model Probability Default (PD) for real-world da
 
 - Dataset used: 
 
+Dataset includes information from the origination of the loan to predict the performance of the loan and Default flag which marks if the mortgage has defaulted.
+
 http://www.freddiemac.com/research/datasets/sf_loanlevel_dataset.page
 
 - Result
