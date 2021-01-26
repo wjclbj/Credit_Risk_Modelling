@@ -1,12 +1,15 @@
 # Credit_Risk_Modelling
 
 - Story
+
 I want to create a scorecard to model Probability Default (PD) for real-world dataset (Freddie Mac) using Machine Learning techniques of Logistic Regression, Random Forest and XGBoosting. (Scorecard Modelling_Credit_Risk.ipynb) In addition, for PD obtained from the scorecard model, i want to try to calculate long-term PD considering prospects of macroeconomics factors. (Probability of Default Calibration.ipynb)
 
 - Dataset used: 
+
 http://www.freddiemac.com/research/datasets/sf_loanlevel_dataset.page
 
 - Result
+
 1. For selected configurations: (base pionts 750, minimum unit of odds: 0.01, and points needed to double the odds: 50), the scorecard is :
 
 For example, for people with a fico score < 665, the score he/she starts with would be 647 (705-103).
