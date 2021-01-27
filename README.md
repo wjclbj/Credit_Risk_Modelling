@@ -66,3 +66,5 @@ For example, for people with a fico score < 665, the score he/she starts with wo
 3. The scorecard model is proven to be better than RF & XGB.
 
 ![ROC Curve Comparison](ROC_Comparison.png?raw=true)
+
+If jupyter notebook cannot be reviewed, please try paste the link into https://nbviewer.jupyter.org/.
