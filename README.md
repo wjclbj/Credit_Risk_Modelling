@@ -67,4 +67,9 @@ For example, for people with a fico score < 665, the score he/she starts with wo
 
 ![ROC Curve Comparison](ROC_Comparison.png?raw=true)
 
+4. The final scorecard cutoff (decision based on optimal predictoin and RAROC)
+Reject when score <= 375
+Accept when score = 400
+Inspect when 367 < Score <= 400, which contains 6.7% total cases.
+
 If jupyter notebook cannot be reviewed, please try paste the link into https://nbviewer.jupyter.org/.
